@@ -1,2 +1,4 @@
 .idea/
 ali/
+db.sqlite3
+blog/migrations/
