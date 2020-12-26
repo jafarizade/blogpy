@@ -2,3 +2,5 @@
 ali/
 db.sqlite3
 blog/migrations/
+.env
+/files
